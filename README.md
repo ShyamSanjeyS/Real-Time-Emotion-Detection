@@ -383,6 +383,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you find it useful!**
 
-📧 **Contact**: [Your Email] | 🐛 **Issues**: [GitHub Issues](link-to-issues)
+📧 **Contact**: shyamsanjey.s@gmail.com | 🐛 **Issues**: https://github.com/ShyamSanjeyS/(link-to-issues)
 
 *Built with ❤️ for the computer vision community*
