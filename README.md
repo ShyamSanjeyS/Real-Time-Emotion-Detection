@@ -94,7 +94,7 @@ The system consists of two main components working in pipeline:
 
 ```bash
 # Clone the repository
-git clone <[your-repository-url](https://github.com/ShyamSanjeyS/Real-Time-Emotion-Detection)>
+git clone https://github.com/ShyamSanjeyS/Real-Time-Emotion-Detection
 cd emotion-detection
 
 # Create and activate conda environment
@@ -106,7 +106,7 @@ conda activate emotion
 
 ```bash
 # Clone the repository
-git clone <[your-repository-url](https://github.com/ShyamSanjeyS/Real-Time-Emotion-Detection)>
+git clone https://github.com/ShyamSanjeyS/Real-Time-Emotion-Detection
 cd emotion-detection
 
 # Install dependencies
